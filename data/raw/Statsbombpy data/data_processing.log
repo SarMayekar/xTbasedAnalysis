@@ -1,0 +1,236 @@
+2025-08-27 04:45:14,120 - INFO - Starting StatsBomb data collection...
+2025-08-27 04:45:14,621 - INFO - WSL Competitions Found:
+2025-08-27 04:45:14,632 - INFO - 
+    competition_id  season_id season_name
+25              37         90   2020/2021
+26              37         42   2019/2020
+27              37          4   2018/2019
+2025-08-27 04:45:14,635 - INFO - Fetching WSL 2020/2021 (competition_id=37, season_id=90) ...
+2025-08-27 04:47:32,051 - INFO - Fetching WSL 2019/2020 (competition_id=37, season_id=42) ...
+2025-08-27 04:49:09,510 - INFO - Fetching WSL 2018/2019 (competition_id=37, season_id=4) ...
+2025-08-27 04:51:07,133 - INFO - Total Matches Collected: 326
+2025-08-27 04:51:07,136 - INFO - Total Events Collected: 1095921
+2025-08-27 04:51:23,022 - INFO - Saved: 'E:\MSc Big Data Analytics in Football\WSL project\Statsbombpy data\wsl_matches_all.csv' and 'E:\MSc Big Data Analytics in Football\WSL project\Statsbombpy data\wsl_events_all.csv'
+2025-08-27 04:51:23,024 - INFO - Starting FbRef data consolidation...
+2025-08-27 04:51:23,026 - INFO - Processing 18-19 (2018/2019) ...
+2025-08-27 04:51:23,030 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Team Stats.xlsx
+2025-08-27 04:51:23,034 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Team GK.xlsx
+2025-08-27 04:51:23,038 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Team Shooting.xlsx
+2025-08-27 04:51:23,041 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Team Passing.xlsx
+2025-08-27 04:51:23,046 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Team Possession.xlsx
+2025-08-27 04:51:23,050 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Team Def Actions.xlsx
+2025-08-27 04:51:23,065 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Player Stats.xlsx
+2025-08-27 04:51:23,068 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Player GK.xlsx
+2025-08-27 04:51:23,071 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Player Shooting.xlsx
+2025-08-27 04:51:23,075 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Player Passing.xlsx
+2025-08-27 04:51:23,080 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Player Possession.xlsx
+2025-08-27 04:51:23,084 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Player Def Actions.xlsx
+2025-08-27 04:51:23,087 - INFO - Processing 19-20 (2019/2020) ...
+2025-08-27 04:51:23,092 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Team Stats.xlsx
+2025-08-27 04:51:23,094 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Team GK.xlsx
+2025-08-27 04:51:23,098 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Team Shooting.xlsx
+2025-08-27 04:51:23,101 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Team Passing.xlsx
+2025-08-27 04:51:23,103 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Team Possession.xlsx
+2025-08-27 04:51:23,107 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Team Def Actions.xlsx
+2025-08-27 04:51:23,110 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Player Stats.xlsx
+2025-08-27 04:51:23,117 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Player GK.xlsx
+2025-08-27 04:51:23,119 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Player Shooting.xlsx
+2025-08-27 04:51:23,121 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Player Passing.xlsx
+2025-08-27 04:51:23,124 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Player Possession.xlsx
+2025-08-27 04:51:23,298 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Player Def Actions.xlsx
+2025-08-27 04:51:23,302 - INFO - Processing 20-21 (2020/2021) ...
+2025-08-27 04:51:23,304 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Team Stats.xlsx
+2025-08-27 04:51:23,306 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Team GK.xlsx
+2025-08-27 04:51:23,309 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Team Shooting.xlsx
+2025-08-27 04:51:23,310 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Team Passing.xlsx
+2025-08-27 04:51:23,313 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Team Possession.xlsx
+2025-08-27 04:51:23,315 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Team Def Actions.xlsx
+2025-08-27 04:51:23,319 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Player Stats.xlsx
+2025-08-27 04:51:23,321 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Player GK.xlsx
+2025-08-27 04:51:23,325 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Player Shooting.xlsx
+2025-08-27 04:51:23,330 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Player Passing.xlsx
+2025-08-27 04:51:23,334 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Player Possession.xlsx
+2025-08-27 04:51:23,335 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Player Def Actions.xlsx
+2025-08-27 04:51:23,340 - INFO - Processing 21-22 (2021/2022) ...
+2025-08-27 04:51:23,343 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Team Stats.xlsx
+2025-08-27 04:51:23,348 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Team GK.xlsx
+2025-08-27 04:51:23,350 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Team Shooting.xlsx
+2025-08-27 04:51:23,353 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Team Passing.xlsx
+2025-08-27 04:51:23,356 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Team Possession.xlsx
+2025-08-27 04:51:23,358 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Team Def Actions.xlsx
+2025-08-27 04:51:23,360 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Player Stats.xlsx
+2025-08-27 04:51:23,364 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Player GK.xlsx
+2025-08-27 04:51:23,366 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Player Shooting.xlsx
+2025-08-27 04:51:23,368 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Player Passing.xlsx
+2025-08-27 04:51:23,371 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Player Possession.xlsx
+2025-08-27 04:51:23,374 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Player Def Actions.xlsx
+2025-08-27 04:51:23,376 - WARNING - No team data collected.
+2025-08-27 04:51:23,377 - WARNING - No player data collected.
+2025-08-27 04:51:23,386 - INFO - FbRef consolidation complete!
+2025-08-27 04:51:23,389 - INFO - Starting game state addition...
+2025-08-27 04:51:28,072 - INFO - Matches: (326, 23)
+2025-08-27 04:51:28,080 - INFO - Events: (1095921, 15)
+2025-08-27 04:53:10,384 - INFO - Game state labeling complete! Saved file: E:\MSc Big Data Analytics in Football\WSL project\Statsbombpy data\wsl_events_with_gamestate.csv
+2025-08-27 04:53:10,386 - INFO - Shape: (1095921, 16)
+2025-08-27 04:53:10,421 - INFO - 
+                                     id         type                 team     player  minute  second      location pass_end_location  shot_statsbomb_xg shot_outcome carry_end_location  possession      possession_team  match_id season_name game_state
+0  0b483cd2-1d36-49a0-85c2-149a9de553df  Starting XI  Manchester City WFC        NaN       0       0           NaN               NaN                NaN          NaN                NaN           1  Manchester City WFC      7298   2018/2019    drawing
+1  2c873afb-73bb-48a1-9fd5-bfe1400b4a83  Starting XI          Chelsea FCW        NaN       0       0           NaN               NaN                NaN          NaN                NaN           1  Manchester City WFC      7298   2018/2019    drawing
+2  040940a1-5972-431e-b6ac-e723edd8e7c2   Half Start  Manchester City WFC        NaN       0       0           NaN               NaN                NaN          NaN                NaN           1  Manchester City WFC      7298   2018/2019    drawing
+3  5ba286bd-c397-4ac4-b12f-6bace943afce   Half Start          Chelsea FCW        NaN       0       0           NaN               NaN                NaN          NaN                NaN           1  Manchester City WFC      7298   2018/2019    drawing
+4  2a456ec2-352c-499b-b5cc-e68bf84c7e9a         Pass          Chelsea FCW  So-Yun Ji       0       0  [61.0, 40.0]      [63.0, 37.0]                NaN          NaN                NaN           2          Chelsea FCW      7298   2018/2019    drawing
+2025-08-27 04:58:45,223 - INFO - Starting StatsBomb data collection...
+2025-08-27 04:58:46,035 - INFO - WSL Competitions Found:
+2025-08-27 04:58:46,045 - INFO - 
+    competition_id  season_id season_name
+25              37         90   2020/2021
+26              37         42   2019/2020
+27              37          4   2018/2019
+2025-08-27 04:58:46,047 - INFO - TEST MODE: Processing only 2018/2019 season.
+2025-08-27 04:58:46,048 - INFO - Fetching WSL 2018/2019 (competition_id=37, season_id=4) ...
+2025-08-27 05:00:18,346 - INFO - Total Matches Collected: 108
+2025-08-27 05:00:18,347 - INFO - Total Events Collected: 360362
+2025-08-27 05:00:22,593 - INFO - Saved: 'E:\MSc Big Data Analytics in Football\WSL project\Statsbombpy data\wsl_matches_all.csv' and 'E:\MSc Big Data Analytics in Football\WSL project\Statsbombpy data\wsl_events_all.csv'
+2025-08-27 05:00:22,595 - INFO - Starting FbRef data consolidation...
+2025-08-27 05:00:22,596 - INFO - Processing 18-19 (2018/2019) ...
+2025-08-27 05:00:22,598 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Team Stats.xlsx
+2025-08-27 05:00:22,600 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Team GK.xlsx
+2025-08-27 05:00:22,601 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Team Shooting.xlsx
+2025-08-27 05:00:22,602 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Team Passing.xlsx
+2025-08-27 05:00:22,604 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Team Possession.xlsx
+2025-08-27 05:00:22,606 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Team Def Actions.xlsx
+2025-08-27 05:00:22,608 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Player Stats.xlsx
+2025-08-27 05:00:22,610 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Player GK.xlsx
+2025-08-27 05:00:22,613 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Player Shooting.xlsx
+2025-08-27 05:00:22,615 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Player Passing.xlsx
+2025-08-27 05:00:22,616 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Player Possession.xlsx
+2025-08-27 05:00:22,617 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\18-19\Player Def Actions.xlsx
+2025-08-27 05:00:22,620 - INFO - Processing 19-20 (2019/2020) ...
+2025-08-27 05:00:22,621 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Team Stats.xlsx
+2025-08-27 05:00:22,622 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Team GK.xlsx
+2025-08-27 05:00:22,625 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Team Shooting.xlsx
+2025-08-27 05:00:22,625 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Team Passing.xlsx
+2025-08-27 05:00:22,627 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Team Possession.xlsx
+2025-08-27 05:00:22,629 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Team Def Actions.xlsx
+2025-08-27 05:00:22,631 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Player Stats.xlsx
+2025-08-27 05:00:22,633 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Player GK.xlsx
+2025-08-27 05:00:22,635 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Player Shooting.xlsx
+2025-08-27 05:00:22,636 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Player Passing.xlsx
+2025-08-27 05:00:22,638 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Player Possession.xlsx
+2025-08-27 05:00:22,639 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\19-20\Player Def Actions.xlsx
+2025-08-27 05:00:22,641 - INFO - Processing 20-21 (2020/2021) ...
+2025-08-27 05:00:22,643 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Team Stats.xlsx
+2025-08-27 05:00:22,645 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Team GK.xlsx
+2025-08-27 05:00:22,647 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Team Shooting.xlsx
+2025-08-27 05:00:22,649 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Team Passing.xlsx
+2025-08-27 05:00:22,650 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Team Possession.xlsx
+2025-08-27 05:00:22,651 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Team Def Actions.xlsx
+2025-08-27 05:00:22,653 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Player Stats.xlsx
+2025-08-27 05:00:22,655 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Player GK.xlsx
+2025-08-27 05:00:22,656 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Player Shooting.xlsx
+2025-08-27 05:00:22,659 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Player Passing.xlsx
+2025-08-27 05:00:22,660 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Player Possession.xlsx
+2025-08-27 05:00:22,662 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\20-21\Player Def Actions.xlsx
+2025-08-27 05:00:22,664 - INFO - Processing 21-22 (2021/2022) ...
+2025-08-27 05:00:22,666 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Team Stats.xlsx
+2025-08-27 05:00:22,668 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Team GK.xlsx
+2025-08-27 05:00:22,669 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Team Shooting.xlsx
+2025-08-27 05:00:22,671 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Team Passing.xlsx
+2025-08-27 05:00:22,672 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Team Possession.xlsx
+2025-08-27 05:00:22,674 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Team Def Actions.xlsx
+2025-08-27 05:00:22,676 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Player Stats.xlsx
+2025-08-27 05:00:22,677 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Player GK.xlsx
+2025-08-27 05:00:22,679 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Player Shooting.xlsx
+2025-08-27 05:00:22,681 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Player Passing.xlsx
+2025-08-27 05:00:22,682 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Player Possession.xlsx
+2025-08-27 05:00:22,683 - WARNING - Missing file: E:\MSc Big Data Analytics in Football\WSL project\FbRef\21-22\Player Def Actions.xlsx
+2025-08-27 05:00:22,686 - WARNING - No team data collected.
+2025-08-27 05:00:22,687 - WARNING - No player data collected.
+2025-08-27 05:00:22,695 - INFO - FbRef consolidation complete!
+2025-08-27 05:00:22,696 - INFO - Starting game state addition...
+2025-08-27 05:00:23,835 - INFO - Matches: (108, 23)
+2025-08-27 05:00:23,837 - INFO - Events: (360362, 15)
+2025-08-27 05:00:55,696 - INFO - Game state labeling complete! Saved file: E:\MSc Big Data Analytics in Football\WSL project\Statsbombpy data\wsl_events_with_gamestate.csv
+2025-08-27 05:00:55,698 - INFO - Shape: (360362, 16)
+2025-08-27 05:00:55,708 - INFO - 
+                                     id         type                 team     player  minute  second      location pass_end_location  shot_statsbomb_xg shot_outcome carry_end_location  possession      possession_team  match_id season_name game_state
+0  0b483cd2-1d36-49a0-85c2-149a9de553df  Starting XI  Manchester City WFC        NaN       0       0           NaN               NaN                NaN          NaN                NaN           1  Manchester City WFC      7298   2018/2019    drawing
+1  2c873afb-73bb-48a1-9fd5-bfe1400b4a83  Starting XI          Chelsea FCW        NaN       0       0           NaN               NaN                NaN          NaN                NaN           1  Manchester City WFC      7298   2018/2019    drawing
+2  040940a1-5972-431e-b6ac-e723edd8e7c2   Half Start  Manchester City WFC        NaN       0       0           NaN               NaN                NaN          NaN                NaN           1  Manchester City WFC      7298   2018/2019    drawing
+3  5ba286bd-c397-4ac4-b12f-6bace943afce   Half Start          Chelsea FCW        NaN       0       0           NaN               NaN                NaN          NaN                NaN           1  Manchester City WFC      7298   2018/2019    drawing
+4  2a456ec2-352c-499b-b5cc-e68bf84c7e9a         Pass          Chelsea FCW  So-Yun Ji       0       0  [61.0, 40.0]      [63.0, 37.0]                NaN          NaN                NaN           2          Chelsea FCW      7298   2018/2019    drawing
+2025-08-27 05:12:57,256 - INFO - Starting StatsBomb data collection...
+2025-08-27 05:12:57,630 - INFO - WSL Competitions Found:
+2025-08-27 05:12:57,637 - INFO - 
+    competition_id  season_id season_name
+25              37         90   2020/2021
+26              37         42   2019/2020
+27              37          4   2018/2019
+2025-08-27 05:12:57,639 - INFO - Fetching WSL 2020/2021 (competition_id=37, season_id=90) ...
+2025-08-27 05:12:58,013 - INFO -  -> 131 matches loaded
+2025-08-27 05:12:58,029 - ERROR - Error processing season 2020/2021: module 'statsbombpy.sb' has no attribute 'NoAuthWarning'
+2025-08-27 05:12:58,031 - INFO - Fetching WSL 2019/2020 (competition_id=37, season_id=42) ...
+2025-08-27 05:12:58,391 - INFO -  -> 87 matches loaded
+2025-08-27 05:12:58,394 - ERROR - Error processing season 2019/2020: module 'statsbombpy.sb' has no attribute 'NoAuthWarning'
+2025-08-27 05:12:58,397 - INFO - Fetching WSL 2018/2019 (competition_id=37, season_id=4) ...
+2025-08-27 05:12:58,763 - INFO -  -> 108 matches loaded
+2025-08-27 05:12:58,770 - ERROR - Error processing season 2018/2019: module 'statsbombpy.sb' has no attribute 'NoAuthWarning'
+2025-08-27 05:12:58,774 - INFO - Total Matches Collected: 326
+2025-08-27 05:12:58,776 - WARNING - No event data collected.
+2025-08-27 05:12:58,795 - INFO - Saved: 'E:\MSc Big Data Analytics in Football\WSL project\Statsbombpy data\wsl_matches_all.csv' and 'E:\MSc Big Data Analytics in Football\WSL project\Statsbombpy data\wsl_events_all.csv'
+2025-08-27 05:12:58,796 - INFO - Starting FbRef data consolidation...
+2025-08-27 05:12:58,797 - INFO - Processing 18-19 (2018/2019) ...
+2025-08-27 05:13:01,653 - INFO - Processing 19-20 (2019/2020) ...
+2025-08-27 05:13:03,492 - INFO - Processing 20-21 (2020/2021) ...
+2025-08-27 05:13:05,532 - INFO - Processing 21-22 (2021/2022) ...
+2025-08-27 05:13:07,667 - INFO - Team dataset: (307, 53)
+2025-08-27 05:13:07,668 - INFO - Player dataset: (5511, 58)
+2025-08-27 05:13:07,802 - INFO - FbRef consolidation complete!
+2025-08-27 05:13:07,804 - INFO - Starting game state addition...
+2025-08-27 05:13:07,826 - ERROR - Error loading data: No columns to parse from file
+2025-08-27 05:13:07,829 - ERROR - Failed to load data. Exiting.
+2025-08-27 05:13:07,830 - ERROR - Failed to build match info. Exiting.
+2025-08-27 05:13:07,831 - ERROR - Empty events DataFrame or match info.
+2025-08-27 05:13:07,833 - ERROR - Failed to add game state. Exiting.
+2025-08-27 05:13:07,842 - INFO - Game state labeling complete! Saved file: E:\MSc Big Data Analytics in Football\WSL project\Statsbombpy data\wsl_events_with_gamestate.csv
+2025-08-27 05:13:07,843 - INFO - Shape: (0, 0)
+2025-08-27 05:13:07,847 - INFO - 
+Empty DataFrame
+Columns: []
+Index: []
+2025-08-27 05:16:55,029 - INFO - Starting StatsBomb data collection...
+2025-08-27 05:16:55,049 - INFO - WSL Competitions Found:
+2025-08-27 05:16:55,053 - INFO - 
+    competition_id  season_id season_name
+25              37         90   2020/2021
+26              37         42   2019/2020
+27              37          4   2018/2019
+2025-08-27 05:16:55,055 - INFO - Fetching WSL 2020/2021 (competition_id=37, season_id=90) ...
+2025-08-27 05:16:55,077 - INFO -  -> 131 matches loaded
+2025-08-27 05:19:05,543 - INFO - Fetching WSL 2019/2020 (competition_id=37, season_id=42) ...
+2025-08-27 05:19:05,563 - INFO -  -> 87 matches loaded
+2025-08-27 05:20:23,794 - INFO - Fetching WSL 2018/2019 (competition_id=37, season_id=4) ...
+2025-08-27 05:20:23,817 - INFO -  -> 108 matches loaded
+2025-08-27 05:21:50,930 - INFO - Total Matches Collected: 326
+2025-08-27 05:21:50,934 - INFO - Total Events Collected: 1095921
+2025-08-27 05:22:02,509 - INFO - Saved: 'E:\MSc Big Data Analytics in Football\WSL project\Statsbombpy data\wsl_matches_all.csv' and 'E:\MSc Big Data Analytics in Football\WSL project\Statsbombpy data\wsl_events_all.csv'
+2025-08-27 05:22:02,511 - INFO - Starting FbRef data consolidation...
+2025-08-27 05:22:02,521 - INFO - Processing 18-19 (2018/2019) ...
+2025-08-27 05:22:04,268 - INFO - Processing 19-20 (2019/2020) ...
+2025-08-27 05:22:05,931 - INFO - Processing 20-21 (2020/2021) ...
+2025-08-27 05:22:08,198 - INFO - Processing 21-22 (2021/2022) ...
+2025-08-27 05:22:10,113 - INFO - Team dataset: (307, 53)
+2025-08-27 05:22:10,115 - INFO - Player dataset: (5511, 58)
+2025-08-27 05:22:10,245 - INFO - FbRef consolidation complete!
+2025-08-27 05:22:10,247 - INFO - Starting game state addition...
+2025-08-27 05:22:13,879 - INFO - Matches: (326, 23)
+2025-08-27 05:22:13,881 - INFO - Events: (1095921, 15)
+2025-08-27 05:23:50,384 - INFO - Game state labeling complete! Saved file: E:\MSc Big Data Analytics in Football\WSL project\Statsbombpy data\wsl_events_with_gamestate.csv
+2025-08-27 05:23:50,386 - INFO - Shape: (1095921, 16)
+2025-08-27 05:23:50,404 - INFO - 
+                                     id         type                 team     player  minute  second      location pass_end_location  shot_statsbomb_xg shot_outcome carry_end_location  possession      possession_team  match_id season_name game_state
+0  0b483cd2-1d36-49a0-85c2-149a9de553df  Starting XI  Manchester City WFC        NaN       0       0           NaN               NaN                NaN          NaN                NaN           1  Manchester City WFC      7298   2018/2019    drawing
+1  2c873afb-73bb-48a1-9fd5-bfe1400b4a83  Starting XI          Chelsea FCW        NaN       0       0           NaN               NaN                NaN          NaN                NaN           1  Manchester City WFC      7298   2018/2019    drawing
+2  040940a1-5972-431e-b6ac-e723edd8e7c2   Half Start  Manchester City WFC        NaN       0       0           NaN               NaN                NaN          NaN                NaN           1  Manchester City WFC      7298   2018/2019    drawing
+3  5ba286bd-c397-4ac4-b12f-6bace943afce   Half Start          Chelsea FCW        NaN       0       0           NaN               NaN                NaN          NaN                NaN           1  Manchester City WFC      7298   2018/2019    drawing
+4  2a456ec2-352c-499b-b5cc-e68bf84c7e9a         Pass          Chelsea FCW  So-Yun Ji       0       0  [61.0, 40.0]      [63.0, 37.0]                NaN          NaN                NaN           2          Chelsea FCW      7298   2018/2019    drawing
