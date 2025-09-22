@@ -1,1 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/wsl_event_all.csv filter=lfs diff=lfs merge=lfs -text
